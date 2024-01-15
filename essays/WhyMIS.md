@@ -6,7 +6,8 @@ title: "E:0 Why I chose MIS?"
 date: 2024-01-14
 published: true
 labels:
-  - ITM352 -Introducing My Self
+  - MIS 
+  - Introduction
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
