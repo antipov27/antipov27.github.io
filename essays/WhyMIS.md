@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E:0 Why I chose MIS?"
+title: "Why MIS?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-14
 published: true
@@ -9,8 +9,6 @@ labels:
   - MIS 
   - Introduction
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 ## Why I chose to study Management Information Systems?
 
