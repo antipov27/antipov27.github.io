@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Anatoly Antipov",
+    "label": "Shidler Undergraduate Student",
+    "picture": "https://github.com/antipov27.png",
+    "email": "antipov@hawaii.edu",
+    "phone": "808-421-7347",
+    "website": "https://antipov27.github.io",
+    "summary": "I am pursuing a BBA in Management Information Systems, Accounting and Marketing at the Shidler College of Business, University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 202.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "antipov27", "url": "http://github.com/antipov27" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+   { "name": "Resistance Training" },
+    { "name": "Reading" },
+    { "name": "Aviation" },
+    { "name": "Outdoors" }
   ],
   "skills": [
     {
