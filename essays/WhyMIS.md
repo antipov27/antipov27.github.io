@@ -6,8 +6,9 @@ title: "Why MIS?"
 date: 2024-01-14
 published: true
 labels:
-  - MIS 
+  - E0
   - Introduction
+  - MIS 
 ---
 
 ## Why I chose to study Management Information Systems?
