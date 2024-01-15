@@ -6,16 +6,18 @@
     "email": "antipov@hawaii.edu",
     "phone": "808-421-7347",
     "website": "https://antipov27.github.io",
-    "summary": "I am pursuing a BBA in Management Information Systems, Accounting and Marketing at the Shidler College of Business, University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 202.",
+    "summary": "I am pursuing a BBA in Management Information Systems, Accounting and Marketing at the Shidler College of Business, University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "antipov27", "url": "http://github.com/antipov27" }
     ]
   },
   "interests": [
-   { "name": "Resistance Training" },
+   { "name": "Project Management" },
+    { "name": "Data Analysis" },
     { "name": "Reading" },
-    { "name": "Aviation" },
+    { "name": "General aviation" },
+    { "name": "Resistance Training" },
     { "name": "Outdoors" }
   ],
   "skills": [
