@@ -14,8 +14,8 @@ labels:
 
 ## E1: UI Basics Technical Essay
 
-# Workout of the day 1
+### Workout of the day 1
 
-# Workout of the day 2
+### Workout of the day 2
 
-# Workout of the day 2
+### Workout of the day 2
