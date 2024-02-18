@@ -7,7 +7,7 @@ date: 2024-02-17
 published: true
 labels:
   - E3
-  - UI Basics
+  - Variables
   - Technical Essay
   - MIS 
 ---
