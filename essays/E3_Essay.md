@@ -20,5 +20,3 @@ Performing most of the WOD was easy and smooth flowing for me. I completed it in
 To prepare I reviewed the W3 school’s tutorial to review how to create and modify an HTML table. This helped me be on top of things when time came to record the WOD. One thing that we did different is in the smartphone variables lab we outputted variables through document.write(), wheras in this lab I used the ${} placeholder for the same purpose.
 
 To be better prepared (in terms of doing the WOD faster) I could have practiced more before recording, since this recording went a bit longer than usual. Other than that, I feel that I was well prepared. In future WODs I might try this approach of practicing more prior to recording.
-![image](https://github.com/antipov27/antipov27.github.io/assets/156292832/3214e3c3-6982-4559-9535-7d092e61722f)
-
