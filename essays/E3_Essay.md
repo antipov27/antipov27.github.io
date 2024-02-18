@@ -6,7 +6,7 @@ title: "E1: UI Basics Technical Essay"
 date: 2024-02-17
 published: true
 labels:
-  - E1
+  - E3
   - UI Basics
   - Technical Essay
   - MIS 
