@@ -28,5 +28,3 @@ Assignment 1 was enjoyable, I learned how to slowly, step by step solve a big ta
 I think the class can be improved by removing the grading of labs. I feel like too much pressure is put on students to receive one point for a massive task and that instead of learning how to do the lab, we focus on doing it in a way that will definitely bring the full point.
 
 WODs have been the most helpful part of class. Creating a solution yourself is what allows to master the skill.
-![image](https://github.com/antipov27/antipov27.github.io/assets/156292832/53a7bdab-ff55-478d-9b7e-396f31a91f2a)
-
