@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "E5: Assignment 1 Essay"
+title: "E5: Assignment 2 Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-16
 published: true
