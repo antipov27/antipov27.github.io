@@ -46,6 +46,3 @@ If you could go back in time and do things differently, what would you do differ
 I started early and took things step by step, which helped me avoid many potential issues. The bit which didn’t work well was trying to generate all of the code for error message output through chat gpt. That didn’t work, because chat gpt isn’t good on creating large chunks of code for an existing application, so I had to do it myself based on early guidelines from professor Port.
 
 If I could go back I would have done things the way I did, because I was able to finish early.
-![image](https://github.com/antipov27/antipov27.github.io/assets/156292832/721028e6-43a1-4130-8d4e-50e11ab50b25)
-
-
