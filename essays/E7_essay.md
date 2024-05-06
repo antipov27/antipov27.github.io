@@ -13,7 +13,7 @@ labels:
 ---
 ### Fimal Reflection
 
-1.	Course Goals ITM 352 has the following goals:
+Course Goals ITM 352 has the following goals:
 
 1.1	Acquiring basic programming skills in an IT context. I have acquired basic programming skills starting from the dynamic web pages section and all the way to the end of the course. Concepts we learned where fundamental to all software development, from variables to functions. I am sure that if I come across another programming language, I will quickly understand it and pick it up.
 
@@ -28,7 +28,7 @@ labels:
 1.6	Gaining confidence in addressing MIS problems. I definitely gained confidence, I know that all answers are either on the web or a human already knows how to do something and needs to correctly translate it into computer language (like with algorithms). During my upcoming internship, I know that I will be able to independently identify paths to solving MIS tasks.
 
 
-2. Course Elements and Personal Engagement
+Course Elements and Personal Engagement
 
 2.1	What did you learn from creating a professional portfolio and using it in ITM 352? I don’t know if this was useful after the E0. Completing the E0 was very useful, as it was a great intro into how MIS tasks are completed. I had to set everything up in GitHub (which was completely new software to me) and accurately follow a tutorial. However, having to make the remaining posts didn’t seem to be useful or productive. It felt more like a burden.
 
@@ -48,7 +48,7 @@ The essays got me to think back about my experiences, but it wasn’t really use
 Assignment 1 taught me how all covered programming skills can be tied together to produce new software. Assignment 2 taught me how existing software can be modified to meet more specific needs, creating login and registration page, custom invoice and password encryption.
 
 
-3. Challenges and Achievements
+Challenges and Achievements
 
 3.1 Detail the specific challenges you encountered during the course, such as understanding new programming concepts, completing WODs, web application development assignments. One of the biggest challenges for me was understanding algorithms and getting through the respective WODs. Algorithms is such a large and complex topic, that I believe a whole course could be dedicated to it. So doing the day of the week and making change WODs was an experience which required a lot of studying. Also doing the Invoice 3 WOD was complicated, mainly because of how large it was. Assignmnet 2 was a challenge as a whole. 
 
@@ -58,21 +58,21 @@ Studying and practicing. These where the only ways to get through those WODs. I 
 3.3 Highlight any particular achievements or milestones in the course that were significant to you. The three milestones were completing the html section and beginning JS, completing the algorithms section, and completing assignment 1. Each one of them was a point when I felt like I reached a new level in my programming skills.
 
 
-4. Skill Development and Application
+Skill Development and Application
 
 4.1 Reflect on the three skill levels outlined in the course (syntactic, algorithmic, application) and discuss your progression through these levels. Syntactic was the part of the course where I felt most engaged. Getting to learn and relatively easy implement new concepts was fun. Algorithmic was the part when I got to feel what real programming is, when there is no specific path, but a solution needs to be achieved. Application felt natural after the algorithmic portion and this was also enjoyable.
 
 4.2 Describe how the hands-on experience with web-based e-service applications enhanced your understanding and confidence in handling MIS issues.
 
 
-5.	Use of AI (e.g. ChatGPT)
+Use of AI (e.g. ChatGPT)
 
 5.1	Discuss how use of AI enhanced your learning and productivity. Give specific examples of how you used AI effectively. When covering the basics of JS, learning new concepts and terminology I would often ask ChatGPT “What does this mean?” “How is this used in real life context?” and this helped me understand what is it what I’m studying and doing.
 
 5.2 Discuss how use of AI inhibited your learning or and productivity. Give specific examples of how you used AI ineffectively. AI is great, as I mentioned above it helped me learn. If I didn’t have AI to go and ask “stupid” questions I would have got lost. As with hard programming portions, AI didn’t hold me back by taking away programming experience, since it was never able to make the specific code needed and I had to figure it out with other resources such as W3 schools, youtube or Daniel Port.
 
 
-6.	Future Implications and Professional Growth
+Future Implications and Professional Growth
 
 6.1 Explore how the skills and knowledge gained from ITM 352 can be applied in your future academic and professional endeavors. This course stimulated me to get an MIS internship this summer in supply chain management IS development. I learned that I’m not too big into coding, but I enjoy solving MIS problems and would like to experience project management. So the problem solving skill will be applied by me in my internship.
 
