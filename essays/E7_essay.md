@@ -11,7 +11,7 @@ labels:
   - Technical Essay
   - MIS 
 ---
-### Fimal Reflection
+### Final Reflection
 
 1. Course Goals ITM 352 has the following goals:
 
