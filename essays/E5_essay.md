@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E5: Assignment 2 Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-16
+date: 2024-05-01
 published: true
 labels:
   - E5
